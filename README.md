@@ -1,6 +1,8 @@
 # How does a Search Engine work?
 
 Search engines usually have three components.
+
+
 ![alt text](https://upload.wikimedia.org/wikiversity/en/thumb/f/fb/High_level_architecture_of_a_Search_Engine.png/256px-High_level_architecture_of_a_Search_Engine.png "Search Engine Component")
 
 
